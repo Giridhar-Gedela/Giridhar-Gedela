@@ -4,7 +4,7 @@
 - 🎓 IT student passionate about tech projects.
 - 🔍 Learning **DevOps**, and **Web Development**.
 - 🤝 Looking to collaborate on **open-source** web apps or automation tools—let's build something awesome!
-- 📫 Connect: [GitHub](https://github.com/GIRIDHAR-GEDELA) | [LinkedIn](https://www.linkedin.com/in/giridhargedela) 
+- 📫 Connect:[LinkedIn](https://www.linkedin.com/in/giridhargedela) 
 
 ### 🛠️ Tech Stack
 
