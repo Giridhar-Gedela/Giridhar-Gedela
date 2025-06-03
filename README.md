@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Giridhar Gedela</h1>
-<p align="center"> DevOps Enthusiast | Open Source Contributor</p>
+<p align="center"> Aspiring Web Developer | Learning in Public & Contributing to OSS</p>
 
 - 🎓 IT student passionate about tech projects.
 - 🔍 Learning **DevOps**, and **Web Development**.
