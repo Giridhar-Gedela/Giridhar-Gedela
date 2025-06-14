@@ -1,10 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Giridhar Gedela</h1>
 <p align="center"> Aspiring Web Developer | Learning in Public & Contributing to OSS</p>
 
-- 🎓 IT student passionate about tech projects.
-- 🔍 Learning **DevOps**, and **Web Development**.
-- 🤝 Looking to collaborate on **open-source** web apps or automation tools—let's build something awesome!
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/giridhargedela) 
+🎓 Student passionate about building impactful tech projects  
+🔍 Currently learning DevOps and Web Development  
+🤝 Open to collaborating on open-source web apps or automation tools—let’s build something awesome!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/giridhargedela)
+
+
 
 ### 🛠️ Tech Stack
 
@@ -15,7 +18,6 @@
 
 **Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Web Development:**  
