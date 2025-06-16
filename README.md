@@ -4,7 +4,7 @@
 👨‍💻  Experimenting with HTML, CSS, JS, and bugs  
 🎓 IT Student | Surviving college + Git merge conflicts  
 ☕ Open to internships. And coffee.  
-🌐 Portfolio: [giridhargedela.netlify.app](https://iam-giridhar.netlify.app/)
+🌐 Portfolio: [iamgiridhar](https://iam-giridhar.netlify.app/)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/giridhargedela)
