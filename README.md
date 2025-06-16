@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Giridhar Gedela</h1>
 <p align="center"> Aspiring Web Developer | Learning in Public & Contributing to OSS</p>
 
-🎓 Student passionate about building impactful tech projects  
-🔍 Currently learning DevOps and Web Development  
-🤝 Open to collaborating on open-source web apps or automation tools—let’s build something awesome!  
+👨‍💻  Experimenting with HTML, CSS, JS, and bugs  
+🎓 IT Student | Surviving college + Git merge conflicts  
+☕ Open to internships. And coffee.  
+🌐 Portfolio: [giridhargedela.netlify.app](https://iam-giridhar.netlify.app/)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/giridhargedela)
 
