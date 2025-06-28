@@ -18,16 +18,21 @@
   <a href="https://github.com/Giridhar-Gedela" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
+  <a href="https://codepen.io/giridhar-gedela/" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-Explore-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge" />
+  </a>
 </p>
+
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 IT Student | Surviving college and merge conflicts
-- 👨‍💻 Exploring web technologies: HTML, CSS, JavaScript, and  bugs!
-- ☕ Open to internships and coffee ☕
-- 🌱 Currently learning: React, Git, UI Design
+- 👨‍💻 Exploring full-stack web development (MERN Stack)
+- 🌱 Currently learning: React.js, Node.js, MongoDB, UI/UX Design
+- ☕ Open to internships, freelance gigs, and collaboration
+- ✨ Building real-world projects and learning by doing
 
 ---
 
@@ -40,12 +45,21 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**Frameworks & Tools:**
+**MERN Stack:**
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Tools & Platforms:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Databases:**
 
@@ -56,13 +70,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GIRIDHAR-GEDELA&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Giridhar-Gedela&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GIRIDHAR-GEDELA&theme=dracula&no-frame=true&margin-w=5&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=dracula&no-frame=true&margin-w=5&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -71,9 +85,11 @@
 
 Here are a few cool projects I've worked on:
 
-- 🔗 [SkillCraft Internship Landing Page](https://github.com/Giridhar-Gedela/Giridhar-Gedela-SCT-WD-1) – Responsive landing page for internship task
-- 🌐 [Portfolio Website](https://github.com/Giridhar-Gedela/portfolio) – My personal portfolio made with HTML/CSS/JS
+- 🧭 [Landing Page – SkillCraft Internship Task 01](https://github.com/Giridhar-Gedela/SCT_WD_1)  
+- ⏱️ [Stopwatch App – SkillCraft Task 02](https://github.com/Giridhar-Gedela/SCT_WD_2)  
+- ❌⭕ [Tic-Tac-Toe Game – SkillCraft Task 03](https://github.com/Giridhar-Gedela/SCT_WD_3)  
 
 ---
 
-> 🔄 *Actively learning, building, and improving every day! Thanks for visiting!*
+> 🔄 *Actively learning, building, and improving every day. Thanks for visiting my profile!*
+
