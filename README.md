@@ -78,17 +78,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=dracula&no-frame=true&margin-w=5&column=7" alt="GitHub Trophies" />
 </p>
-
----
-
-### 📌 Pinned Projects
-
-Here are a few cool projects I've worked on:
-
-- 🧭 [Landing Page – SkillCraft Internship Task 01](https://github.com/Giridhar-Gedela/SCT_WD_1)  
-- ⏱️ [Stopwatch App – SkillCraft Task 02](https://github.com/Giridhar-Gedela/SCT_WD_2)  
-- ❌⭕ [Tic-Tac-Toe Game – SkillCraft Task 03](https://github.com/Giridhar-Gedela/SCT_WD_3)  
-
 ---
 
 > 🔄 *Actively learning, building, and improving every day. Thanks for visiting my profile!*
