@@ -76,9 +76,10 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=dracula&no-frame=true&margin-w=5&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=dracula&no-frame=true&margin-w=15&column=7&title=Commit,PullRequest,Issue,Repositories,MultiLanguage" alt="GitHub Trophies" />
 </p>
----
+
+
 
 > 🔄 *Actively learning, building, and improving every day. Thanks for visiting my profile!*
 
