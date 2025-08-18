@@ -2,10 +2,6 @@
 <p align="center"><i>Aspiring Web Developer | Learning in Public | Open Source Enthusiast</i></p>
 
 <p align="center">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif?raw=true" width="250" alt="Git Animation" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/giridhargedela" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -28,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 IT Student | Surviving college and merge conflicts
+- 🎓 Student | Surviving college and merge conflicts
 - 👨‍💻 Exploring full-stack web development (MERN Stack)
 - 🌱 Currently learning: React.js, Node.js, MongoDB, UI/UX Design
-- ☕ Open to internships, freelance gigs, and collaboration
-- ✨ Building real-world projects and learning by doing
+- 🤝 Open to internships, projects & collaboration opportunities
+- ✨ Building real-world applications and growing through hands-on experience
 
 ---
 
