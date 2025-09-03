@@ -64,9 +64,8 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giridhar-Gedela&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Giridhar-Gedela&https://github.com/Giridhar-Gedela/github-readme-stats&show_icons=true&theme=swift" alt="GitHub Stats" />
 </p>
 
 ### 🏆 GitHub Trophies
