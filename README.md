@@ -70,12 +70,12 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=dracula&no-frame=true&margin-w=15&column=6&title=Commits,PullRequest,Repositories,Issues,Stars,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=buefy&no-frame=true&margin-w=15&column=6&title=Commits,PullRequest,Repositories,Issues,Stars,Followers" />
 </p>
  📌 Featured Repositories
 <p align="center">
   <a href="https://github.com/Giridhar-Gedela/spotify-ui-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giridhar-Gedela&repo=spotify-ui-clone&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Giridhar-Gedela&repo=spotify-ui-clone&theme=catppuccin_latte&hide_border=true" />
   </a>
 </p>
 
