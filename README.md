@@ -70,7 +70,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=buefy&no-frame=true&margin-w=15&column=6&title=Commits,PullRequest,Repositories,Issues,Stars,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=buefy&no-frame=true&margin-w=15&column=6&title=Commits,PullRequest,Repositories,Issues,Stars" />
 </p>
  📌 Featured Repositories
 <p align="center">
