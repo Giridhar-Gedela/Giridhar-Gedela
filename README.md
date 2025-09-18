@@ -24,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Student | Surviving college and merge conflicts
-- 👨‍💻 Exploring full-stack web development (MERN Stack)
-- 🌱 Currently learning: React.js, Node.js, MongoDB, UI/UX Design
-- 🤝 Open to internships, projects & collaboration opportunities
-- ✨ Building real-world applications and growing through hands-on experience
+- 🎓 Undergraduate Student | Passionate about Software Development
+- 👨‍💻 Exploring Full-Stack Web Development (MERN Stack)
+- 🌱 Currently focusing on React.js, Node.js, MongoDB, and UI/UX Design
+- 🤝 Open to internships, projects, and collaboration opportunities
+- ✨ Dedicated to building real-world applications and growing through hands-on experience
 
 ---
 
