@@ -68,10 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Giridhar-Gedela&https://github.com/Giridhar-Gedela/github-readme-stats&show_icons=true&theme=swift" alt="GitHub Stats" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giridhar-Gedela&theme=buefy&no-frame=true&margin-w=15&column=6&title=Commits,PullRequest,Repositories,Issues,Stars" />
-</p>
  📌 Featured Repositories
 <p align="center">
   <a href="https://github.com/Giridhar-Gedela/spotify-ui-clone">
@@ -80,5 +76,4 @@
 </p>
 
 
-> 🔄 *Actively learning, building, and improving every day. Thanks for visiting my profile!*
-
+> *Actively learning, building, and improving every day. Thanks for visiting my profile!*
